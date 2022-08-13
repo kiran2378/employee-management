@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Shashikant M",
+      "age": "24",
+      "department": "supervisor",
+      "bloodtype": "A+ve",
+      "phone": "8800453636",
+      "address": "maruthinagar near madiwala bengaluru"
+    },
+    {
+      "id": 2,
+      "name": "Kumar Haveri",
+      "age": "35",
+      "department": "HR",
+      "bloodtype": "O+ve",
+      "phone": "8800453636",
+      "address": "Near green layout bellandur"
+    },
+    {
+      "id": 3,
+      "name": "karthik S shinde",
+      "age": "43",
+      "department": "quality",
+      "bloodtype": "b+ve",
+      "phone": "9900234568",
+      "address": "234,23rd cross 17th main road koramangala bengaluru"
+    },
+    {
+      "id": 4,
+      "name": "shashikumar",
+      "age": "33",
+      "department": "business",
+      "bloodtype": "b+ve",
+      "phone": "7734564288",
+      "address": "#623,24th cross 12th main 1st sector hsr layout bengaluru"
+    },
+    {
+      "id": 5,
+      "name": "shashikumar",
+      "age": "33",
+      "department": "business",
+      "bloodtype": "b+ve",
+      "phone": "7734564286",
+      "address": "#623,24th cross 12th main 1st sector hsr layout bengaluru"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
